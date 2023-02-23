@@ -5,6 +5,8 @@
 - 发消息
 - 看消息
 ### 项目启动
-1.go mod init 
-2.go mod tidy 
-3.go run 
+ 1.go mod init
+ 
+ 2.go mod tidy 
+ 
+ 3.go run 
